@@ -2,7 +2,7 @@
 
 ## Game 2048
 
- [Have a try](game.www.yiqiqq.com) 
+ [Have a try](game.yiqiqq.com) 
 
 
 ## github上有意思的项目 awesome系列
