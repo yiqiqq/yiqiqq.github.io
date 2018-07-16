@@ -1,5 +1,8 @@
 # 一起瞧瞧
 
+## 雷霆三少
+	![](https://raw.githubusercontent.com/yiqiqq/pictures/master/DglxINaWAAA8C8q.jpg)
+
 ## Game 2048
 
  [Have a try](http://game.yiqiqq.com) 
