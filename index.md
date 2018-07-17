@@ -9,7 +9,9 @@
  [Have a try](http://game.yiqiqq.com) 
 
 
-## github上有意思的项目 awesome系列
+## github上有意思的项目 
+
+[netty-learning](https://github.com/code4craft/netty-learning "netty-learning")
 
 [Curated list of awesome lists](https://github.com/sindresorhus/awesome "Curated list of awesome lists")
 
