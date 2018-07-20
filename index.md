@@ -1,5 +1,8 @@
 # 一起瞧瞧
 
+
+## nginx开发从入门到精通
+[http://tengine.taobao.org/book/](http://tengine.taobao.org/book/ "nginx开发从入门到精通")
 ## 雷霆三少
 	
 ![雷霆三少](https://raw.githubusercontent.com/yiqiqq/pictures/master/DglxINaWAAA8C8q.jpg)
