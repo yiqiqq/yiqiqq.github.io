@@ -1,6 +1,6 @@
 # 一起瞧瞧
 
-##MQTT 3.1.1 协议中文版
+## MQTT 3.1.1 协议中文版
 
 [https://mcxiaoke.gitbooks.io/mqtt-cn/content/](https://mcxiaoke.gitbooks.io/mqtt-cn/content/ "MQTT")
 
