@@ -1,5 +1,8 @@
 # 一起瞧瞧
 
+## 精通比特币
+[http://zhibimo.com/read/wang-miao/mastering-bitcoin/Chapter01.html](http://zhibimo.com/read/wang-miao/mastering-bitcoin/Chapter01.html)
+
 ## MQTT 3.1.1 协议中文版
 
 [https://mcxiaoke.gitbooks.io/mqtt-cn/content/](https://mcxiaoke.gitbooks.io/mqtt-cn/content/ "MQTT")
