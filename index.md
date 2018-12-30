@@ -14,9 +14,6 @@
 [http://tengine.taobao.org/book/](http://tengine.taobao.org/book/ "nginx开发从入门到精通")
 
 [http://www.evanmiller.org/nginx-modules-guide.html](http://www.evanmiller.org/nginx-modules-guide.html "nginx-modules-guide")
-## 雷霆三少
-	
-![雷霆三少](https://raw.githubusercontent.com/yiqiqq/pictures/master/DglxINaWAAA8C8q.jpg)
 
 ## Game 2048
 
